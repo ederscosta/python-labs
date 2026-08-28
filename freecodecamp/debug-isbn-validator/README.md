@@ -140,7 +140,7 @@ Durante este laboratório, foram praticados os seguintes conceitos:
 ○ Identificação e correção de `IndentationError`.  
 ○ Uso da função `len()`.  
 ○ Índices e fatiamento de strings.  
-○ Erros do tipo off-by-one.  
+○ Erros do tipo _off-by-one_.  
 ○ Tratamento de exceções com `try` e `except`.  
 ○ `IndexError`.  
 ○ `ValueError`.  
