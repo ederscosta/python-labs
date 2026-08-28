@@ -16,7 +16,6 @@ test_settings = {
     'volume': 'high'
 }
 
-
 def update_setting(test_settings, setting):
     key, value = setting
     key = key.lower()
