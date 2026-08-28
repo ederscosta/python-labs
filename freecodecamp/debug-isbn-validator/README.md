@@ -21,20 +21,13 @@ O programa deve validar códigos ISBN-10 e ISBN-13, identificar códigos inváli
 
 Corrigir o código fornecido para que o programa seja capaz de:
 
-○ Validar códigos ISBN-10 e ISBN-13.
-
-○ Corrigir erros de indentação.
-
-○ Corrigir erros de lógica relacionados aos índices do ISBN.
-
-○ Tratar entradas sem valores separados por vírgula.
-
-○ Tratar comprimentos não numéricos.
-
-○ Identificar caracteres inválidos no código ISBN.
-
-○ Exibir mensagens adequadas para cada tipo de entrada.
-
+○ Validar códigos ISBN-10 e ISBN-13.  
+○ Corrigir erros de indentação.  
+○ Corrigir erros de lógica relacionados aos índices do ISBN.  
+○ Tratar entradas sem valores separados por vírgula.  
+○ Tratar comprimentos não numéricos.  
+○ Identificar caracteres inválidos no código ISBN.  
+○ Exibir mensagens adequadas para cada tipo de entrada.  
 ○ Fazer todos os testes automatizados do laboratório passarem.
 
 ## 🐛 Problemas identificados e correções
@@ -162,6 +155,3 @@ Durante este laboratório, foram praticados os seguintes conceitos:
 ### ✅ Laboratório concluído
 
 Todos os testes automatizados foram concluídos com sucesso.
-
-
-
