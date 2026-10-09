@@ -1,3 +1,4 @@
+```python
 email = 'alice.johnson@company.com'
 print(f'Email: {email}')
 
@@ -10,7 +11,7 @@ print(f'Username: {username}')
 has_at = '@' in email
 print(f'Has @ symbol: {has_at}')
 
-has_com = '.com'in email
+has_com = '.com' in email
 print(f'Has .com: {has_com}')
 
 messy_name = '  sARaH dAVis  '
@@ -32,7 +33,7 @@ email_user = clean_email[:at_pos]
 print(f'Email: {clean_email}')
 print(f'Username: {email_user}')
 
-display_name = email_user.replace('.',' ').title()
+display_name = email_user.replace('.', ' ').title()
 print(f'Display name: {display_name}')
 
 phone = '123-456-7890'
@@ -62,3 +63,4 @@ dash_count = employee_code.count('-')
 
 print(f'Dots in email: {dot_count}')
 print(f'Dashes in code: {dash_count}')
+```
