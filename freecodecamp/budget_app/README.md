@@ -25,7 +25,7 @@ Desenvolver uma aplicação utilizando programação orientada a objetos em Pyth
 
 ```text
 budget-app/
-├── budget_app.py
+├── create_a_budget_app.py
 └── README.md
 ```
 
